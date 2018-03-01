@@ -1,0 +1,48 @@
+# Install Cask
+brew tap 'caskroom/cask'
+
+# Install MAS Utility (Mac App Store)
+brew install mas
+
+# Sign in to MAS Utility
+mas signin ngiovacchini@gmail.com
+
+# Install Git
+brew install git
+
+# Install Node
+brew install node
+
+# Install Apps
+brew cask install 'dropbox'
+brew cask install '1password'
+brew cask install 'iterm2'
+brew cask install 'google-chrome'
+brew cask install 'atom'
+brew cask install 'flux'
+brew cask install 'backblaze'
+brew cask install 'launchbar'
+brew cask install 'qbittorrent'
+brew cask install 'vlc'
+
+mas install 1206020918 # 'Battery Indicator'
+mas install 1290358394 # 'Cardhop'
+mas install 1280542517 # 'Chronicle'
+mas install 943029046  # 'Create Booklet'
+mas install 990588172  # 'Gestimer'
+mas install 445770608  # 'Go2Shell'
+mas install 975937182  # 'Fantastical 2'
+mas install 1054607607 # 'Helium'
+mas install 992115977  # 'Image2icon'
+mas install 409183694  # 'Keynote'
+mas install 492167985  # 'MenubarClock'
+mas install 1059655371 # 'Newton'
+mas install 639968404  # 'Parcel'
+mas install 409201541  # 'Pages'
+mas install 967805235  # 'Paste 2'
+mas install 897118787  # 'Shazam'
+mas install 803453959  # 'Slack'
+mas install 413965349  # 'Soulver'
+mas install 585829637  # 'Todoist'
+mas install 585829637  # 'The Unarchiver'
+mas install 1284863847 # 'Unsplash Wallpapers'

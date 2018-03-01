@@ -1,0 +1,81 @@
+---------------------------------------
+# Navigation
+---------------------------------------
+# go back one character
+Ctrl + b
+
+# go forward one character
+Ctrl + f
+
+# delete current character
+Ctrl + d
+
+# Jump to beginning of line
+Ctrl + a
+
+# Jump to end of line
+Ctrl + e
+
+# Back one word
+Alt + ←
+
+# Forward one word
+Alt + →
+
+# Jump around files & folders with 'z'
+z 'folder_name'
+
+---------------------------------------
+# Cut / Paste
+---------------------------------------
+# Cut from cursor to end of line
+Ctrl + k
+
+# Cut from cursor to end of word
+Alt + d
+
+# Cut from cursor to start of word
+Meta + Backspace
+
+# Cut from cursor to previous whitespace
+Ctrl + w
+
+# Paste the last cut text
+Ctrl + y
+
+#  Loop through and paste previously cut text
+Meta + y
+
+# Loop through and paste last argument of previous command
+Meta + .
+
+---------------------------------------
+# Search Command History
+---------------------------------------
+# Search as you type
+Ctrl + r and type search_term
+
+# Loop through search results
+Repeat Ctrl + r
+
+# End search at current history entry
+Ctrl + j
+
+# Cancel search and restore original line
+Ctrl + g
+
+---------------------------------------
+# Window Management
+---------------------------------------
+# Expand current window to span entire shell
+Cmd + Shift + Enter
+
+
+---------------------------------------
+# Misc.
+---------------------------------------
+# Open current folder in finder
+open .
+
+# Use 'trash' to safely delete files & folders
+trash file_name

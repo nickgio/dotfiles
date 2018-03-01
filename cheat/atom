@@ -1,0 +1,39 @@
+# Add / Remove Bookmarked line
+Cmd + F2
+
+# Navigate Tree
+Ctrl + 0
+
+-----------------------------
+# Spotify
+-----------------------------
+# Play
+Ctrl + Alt + Shift + P
+
+# Pause
+Ctrl + Alt + p
+
+# Next Song
+Ctrl + Cmd + Shift + →
+
+-----------------------------
+# Color Picker
+-----------------------------
+# Open Color Picker (while in CSS File)
+Cmd + Shift + C
+
+-----------------------------
+# Project Manager
+-----------------------------
+# Toggle
+Ctrl + Cmd + p
+
+# Group
+In settings specify 'group: group_name'
+  - You can then search for a project by searching 'group: group_name' in the project manager
+
+# Template
+Specify a template for a particular project or language
+
+# Example
+Vist here for example: https://github.com/danielbrodin/atom-project-manager

@@ -1,0 +1,8 @@
+# Change default directory where 'cheats' are stored
+export DEFAULT_CHEAT_DIR=~/.dotfiles/.cheat
+
+# Add additional directories where 'cheats' are stored
+export CHEATPATH=~/.cheat
+
+# View directories on your CHEATPATH
+cheat -d

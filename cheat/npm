@@ -1,0 +1,5 @@
+# npm install package --save-dev
+npm install package -D
+
+# npm install package
+npm i package
