@@ -7,6 +7,10 @@
 # Install ZSH (ohmyzsh)
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
+
+# Install PIP
+sudo easy_install pip
+
 # Install Cheat (cheatsheet for Mac interactions)
 pip install cheat
 
