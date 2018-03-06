@@ -76,7 +76,7 @@ ECHO
 source $ZSH/oh-my-zsh.sh
 
 # Include z.sh
-. ~/Dropbox/Mac/dotfiles/z.sh
+. ~/dotfiles/z.sh
 
 # Include custom cheat sheets
 export CHEATPATH='~/Dropbox/Mac/cheat/'
