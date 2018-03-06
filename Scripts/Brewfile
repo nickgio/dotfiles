@@ -1,11 +1,11 @@
 # Install Cask
-brew tap 'caskroom/cask'
+# brew tap 'caskroom/cask'
 
 # Install MAS Utility (Mac App Store)
-brew install mas
+# brew install mas
 
 # Sign in to MAS Utility
-mas signin ngiovacchini@gmail.com
+# mas signin ngiovacchini@gmail.com
 
 # Install Git
 brew install git
@@ -21,6 +21,7 @@ brew cask install 'google-chrome'
 brew cask install 'atom'
 brew cask install 'flux'
 brew cask install 'backblaze'
+brew cask install 'nvalt'
 brew cask install 'launchbar'
 brew cask install 'qbittorrent'
 brew cask install 'vlc'
